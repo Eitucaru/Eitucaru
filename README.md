@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=From%20Robotics%20To%20Interactive%20Worlds&fontAlign=50&fontAlignY=38&color=0:102542,40:1F7A8C,100:BFDBF7&fontColor=ffffff)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=800&color=1F7A8C&center=true&vCenter=true&width=920&lines=Academic+IT+student+with+a+game+development+core;Roblox+programming+and+modelling+across+indie+studios;Educator%2C+volunteer+QA%2C+security+fixing%2C+and+localization)](https://git.io/typing-svg)
 
 </div>
@@ -66,9 +64,13 @@ This custom embed highlights the archive scale of [MiniBrickCraze](https://minib
 ## Visual Highlights
 
 <div align="center">
-	<img src="frame-8-Photoroom.png" alt="Game design school logo" width="220" href="https://www.skamling.dk/linjefag/game-design/" />
+	<a href="https://www.skamling.dk/linjefag/game-design/" target="_blank" rel="noopener noreferrer">
+		<img src="frame-8-Photoroom.png" alt="Game design school logo" width="220" />
+	</a>
 	&nbsp;&nbsp;&nbsp;
-	<img src="376270785_701476338663919_1466610405135191965_n.jpg" alt="Game college profile icon" width="220" href="https://videndjurs.dk/game-college" />
+	<a href="https://videndjurs.dk/game-college" target="_blank" rel="noopener noreferrer">
+		<img src="376270785_701476338663919_1466610405135191965_n.jpg" alt="Game college profile icon" width="220" />
+	</a>
 </div>
 
 ## Stack and Domains
