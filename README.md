@@ -7,7 +7,7 @@
 </div>
 
 ## Biography
-🏳️‍⚧️ 22 year old trans girl and nerd from Denmark.
+🏳️‍⚧️ 22 year old trans girl and rhythm game nerd from Denmark with a train obsession.
 
 I started building interactive systems in grade school through Microbits, Scratch, LEGO Mindstorms, and other occasional classroom projects.
 That early mix of code, hardware, and game logic turned into a long-term path in interactive design and development.
