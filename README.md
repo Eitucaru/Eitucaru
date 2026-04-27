@@ -7,6 +7,7 @@
 </div>
 
 ## Biography
+🏳️‍⚧️ 22 year old trans girl and nerd from Denmark.
 
 I started building interactive systems in grade school through Microbits, Scratch, LEGO Mindstorms, and other occasional classroom projects.
 That early mix of code, hardware, and game logic turned into a long-term path in interactive design and development.
@@ -37,9 +38,9 @@ This custom embed highlights the archive scale of [MiniBrickCraze](https://minib
 |---|---|
 | Grade School | Microbits, Scratch, LEGO Mindstorms, and occasional applied tech projects |
 | 8th Grade Highlight | Scratch game project and first full interactive build |
-| Game Design High School | Game makers, level editing workflows, dream:tm:, crey, Unity |
+| Game Design High School | Game makers, level editing workflows, Dream™ on PlayStation, Crey, Unity |
 | Game College Graduate | Physical arcade concepts, wall-scale interactive projects, collaborative production |
-| International Experience | Two-week project at Edmonds College in Seattle and one-week project at University of Skovde and Sweden Game Arena |
+| International Experience | Two-week project at Edmonds College in Seattle and one-week project at University of Skövde and Sweden Game Arena |
 | Current | Academic IT education at bachelor level |
 
 ## Professional Background
