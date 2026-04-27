@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=800&color=1F7A8C&center=true&vCenter=true&width=920&lines=Academic+IT+student+with+a+game+development+core;Roblox+programming+and+modelling+across+indie+studios;Educator%2C+volunteer+QA%2C+security+fixing%2C+and+localization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=1F7A8C&center=true&vCenter=true&width=920&lines=Academic+IT+student+with+a+game+development+core;Roblox+programming+and+modelling+across+indie+studios;Educator%2C+volunteer+QA%2C+security+fixing%2C+and+localization)](https://git.io/typing-svg)
 
 </div>
 
