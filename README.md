@@ -10,7 +10,7 @@
 
 ## Biography
 
-I started building interactive systems in primary school through Microbits, Scratch, LEGO Mindstorms, and other occasional classroom projects.
+I started building interactive systems in grade school through Microbits, Scratch, LEGO Mindstorms, and other occasional classroom projects.
 That early mix of code, hardware, and game logic turned into a long-term path in interactive design and development.
 
 In 8th grade, I completed a Scratch project that marked a major milestone in my early portfolio:
@@ -19,9 +19,20 @@ In 8th grade, I completed a Scratch project that marked a major milestone in my 
 
 I then continued into a high school specializing in game design, where we worked with multiple game makers, level editors, dream:tm:, crey, and Unity.
 After that, I graduated from a game college where we built physical and interactive installations, including arcade projects and games integrated across college building walls.
-During that period, I also participated in a two-week project at Edmonds College in Seattle.
+During that period, I also participated in a two-week project at Edmonds College in Seattle, plus a one-week project at University of Skovde and Sweden Game Arena.
 
 I am currently undertaking an academic IT bachelor education.
+
+## MiniBrickCraze Data Embed
+
+<div align="center">
+	<a href="https://minibrickcraze.com/" target="_blank" rel="noopener noreferrer">
+		<img src="assets/minibrickcraze-embed.svg" alt="MiniBrickCraze data archive embed" width="100%" />
+	</a>
+</div>
+
+This custom embed highlights the archive scale of [MiniBrickCraze](https://minibrickcraze.com/), a catalog focused on underserved mini and micro building block brands.
+The card is designed to stay simple and readable while giving a quick snapshot of how much product data the site already preserves.
 
 ## Education Journey
 
@@ -31,7 +42,7 @@ I am currently undertaking an academic IT bachelor education.
 | 8th Grade Highlight | Scratch game project and first full interactive build |
 | Game Design High School | Game makers, level editing workflows, dream:tm:, crey, Unity |
 | Game College Graduate | Physical arcade concepts, wall-scale interactive projects, collaborative production |
-| International Experience | Two-week project at Edmonds College in Seattle |
+| International Experience | Two-week project at Edmonds College in Seattle and one-week project at University of Skovde and Sweden Game Arena |
 | Current | Academic IT education at bachelor level |
 
 ## Professional Background
