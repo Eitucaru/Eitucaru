@@ -87,15 +87,6 @@ This custom embed highlights the archive scale of [MiniBrickCraze](https://minib
 
 </div>
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eitucaru&show_icons=true&hide_border=true&title_color=1F7A8C&icon_color=1F7A8C)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eitucaru&layout=compact&hide_border=true&title_color=1F7A8C)
-
-</div>
-
 ---
 
 > Building playful systems with technical depth, educational value, and real-world reliability.
