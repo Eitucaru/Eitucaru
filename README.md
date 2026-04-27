@@ -27,7 +27,7 @@ I am currently undertaking an academic IT bachelor education.
 
 | Stage | Focus |
 |---|---|
-| Primary School | Microbits, Scratch, LEGO Mindstorms, and occasional applied tech projects |
+| Grade School | Microbits, Scratch, LEGO Mindstorms, and occasional applied tech projects |
 | 8th Grade Highlight | Scratch game project and first full interactive build |
 | Game Design High School | Game makers, level editing workflows, dream:tm:, crey, Unity |
 | Game College Graduate | Physical arcade concepts, wall-scale interactive projects, collaborative production |
