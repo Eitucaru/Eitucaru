@@ -32,7 +32,6 @@ I am currently undertaking an academic IT bachelor education.
 </div>
 
 This custom embed highlights the archive scale of [MiniBrickCraze](https://minibrickcraze.com/), a catalog focused on underserved mini and micro building block brands.
-The card is designed to stay simple and readable while giving a quick snapshot of how much product data the site already preserves.
 
 ## Education Journey
 
