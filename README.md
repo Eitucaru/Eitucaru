@@ -17,9 +17,9 @@ In 8th grade, I completed a Scratch project that marked a major milestone in my 
 
 - [8th Grade Scratch Project](https://scratch.mit.edu/projects/364336229/embed)
 
-I then continued into a high school specializing in game design, where we worked with multiple game makers, level editors, dream:tm:, crey, and Unity.
+I then continued into a high school specializing in game design, where we worked with multiple game makers, level editors, Dream™ on PlayStation, Crey, and Unity.
 After that, I graduated from a game college where we built physical and interactive installations, including arcade projects and games integrated across college building walls.
-During that period, I also participated in a two-week project at Edmonds College in Seattle, plus a one-week project at University of Skovde and Sweden Game Arena.
+During that period, I also participated in a two-week project at Edmonds College in Seattle, plus a one-week project at University of Skövde and Sweden Game Arena.
 
 I am currently undertaking an academic IT bachelor education.
 
@@ -66,9 +66,9 @@ This custom embed highlights the archive scale of [MiniBrickCraze](https://minib
 ## Visual Highlights
 
 <div align="center">
-	<img src="frame-8-Photoroom.png" alt="Game design school logo" width="220" />
+	<img src="frame-8-Photoroom.png" alt="Game design school logo" width="220" href="https://www.skamling.dk/linjefag/game-design/" />
 	&nbsp;&nbsp;&nbsp;
-	<img src="376270785_701476338663919_1466610405135191965_n.jpg" alt="Game college profile icon" width="220" />
+	<img src="376270785_701476338663919_1466610405135191965_n.jpg" alt="Game college profile icon" width="220" href="https://videndjurs.dk/game-college" />
 </div>
 
 ## Stack and Domains
