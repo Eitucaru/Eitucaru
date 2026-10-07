@@ -50,18 +50,6 @@ This custom embed highlights the archive scale of [MiniBrickCraze](https://minib
 - Hired educator in youth camps and school lessons.
 - Extensive volunteer contributions in quality assurance, bug fixing, security fixing, and localization.
 
-## Current Focus
-
-- Building robust interactive systems with a game-development mindset.
-- Combining technical implementation with educational communication.
-- Improving pipeline quality through QA, debugging, and secure-by-default practices.
-
-## Future Direction
-
-- Continue bridging game technology and applied software engineering.
-- Expand larger-scale multiplayer and interactive environment projects.
-- Grow impact through education, mentoring, and community-based development.
-
 ## Visual Highlights
 
 <div align="center">
